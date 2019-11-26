@@ -1,5 +1,5 @@
 # WikiHowQA-Dataset
-WikiHowQA is a Community-based Question Answering dataset, which can be used for both answer selection and abstractive summarization tasks. The dataset is introduced in **Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering (AAAI 2020)**.
+WikiHowQA is a Community-based Question Answering dataset, which can be used for both answer selection and abstractive summarization tasks. The dataset is introduced in **Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering (AAAI 2020)** (https://arxiv.org/abs/1911.09801).
 
 The WikiHowQA dataset can be downloaded from:
 https://drive.google.com/open?id=1ZcGm3iZaa6zR67t5tXswRNVLY9nygY8H
