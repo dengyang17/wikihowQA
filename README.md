@@ -8,3 +8,25 @@ We construct the WikiHowQA dataset based on a summarzation dataset, WikiHow (htt
 More detailed information will be added soon.
 
 <a name="footnote1">*</a>: The original data is provided by wikiHow. Content on wikiHow can be shared under a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/) (CC-BY-NC-SA).
+
+
+## Citation
+If the code is used in your research, please star this repo and cite our paper as follows:
+```
+@inproceedings{DBLP:conf/aaai/DengLXCL0S20,
+  author    = {Yang Deng and
+               Wai Lam and
+               Yuexiang Xie and
+               Daoyuan Chen and
+               Yaliang Li and
+               Min Yang and
+               Ying Shen},
+  title     = {Joint Learning of Answer Selection and Answer Summary Generation in
+               Community Question Answering},
+  booktitle = {The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2020},
+  pages     = {7651--7658},
+  year      = {2020},
+  url       = {https://aaai.org/ojs/index.php/AAAI/article/view/6266},
+}
+```
