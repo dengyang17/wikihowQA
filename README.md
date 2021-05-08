@@ -11,7 +11,7 @@ More detailed information will be added soon.
 
 
 ## Citation
-If the code is used in your research, please star this repo and cite our paper as follows:
+If the data is used in your research, please star this repo and cite our paper as follows:
 ```
 @inproceedings{DBLP:conf/aaai/DengLXCL0S20,
   author    = {Yang Deng and
